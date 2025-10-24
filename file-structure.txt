@@ -1,0 +1,11 @@
+fair-collective/
+│
+├── README.md
+├── LICENSE.md
+├── PLEDGE.md
+├── CONTRIBUTING.md
+├── VISION.md
+├── .gitignore
+└── assets/
+    └── logo/
+        └── (we’ll use placeholder text — real SVGs below)
